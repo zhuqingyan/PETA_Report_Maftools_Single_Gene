@@ -1,4 +1,4 @@
-# PETA_Report_Maftools_R_Single_Gene
+# PETA_Report_R_Maftools_Single_Gene
 PETA report template using IR kernel to draw frequently used figures of single gene.
 
 # Author
@@ -22,7 +22,8 @@ Use [maftools](http://bioconductor.org/packages/release/bioc/vignettes/maftools/
 Supposed that you have access to BGI-PETA database and to the selected data set:</br>
 
 ```
-$jwr -i PETA_Report_Maftools_Single_Gene.ipynb -o PETA_Report_Maftools_Single_Gene.html --json_str xxx --token xxx
+$jwr -i PETA_Report_R_Maftools_Single_Gene.ipynb -o PETA_Report_Maftools_Single_Gene.html --json_str xxx --token xxx
 ```
 
 'xxx' should replace your information.
+
