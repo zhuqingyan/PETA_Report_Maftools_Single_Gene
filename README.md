@@ -1,4 +1,4 @@
-# PETA_Report_Maftools_Single_Gene
+# PETA_Report_Maftools_R_Single_Gene
 PETA report template using IR kernel to draw frequently used figures of single gene.
 
 # Author
